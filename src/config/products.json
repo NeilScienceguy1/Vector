@@ -1,0 +1,312 @@
+{
+    "products":[
+        {
+            "desc":"American Beef Burger, with lettuce, onions and cheese",
+            "discountedPrice":4,
+            "name":"Big Mac",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Big-Mac.jpg?$Category_Desktop$",
+            "rating":4,
+            "reviews":"25k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"American Beef Burger, with cheese",
+            "discountedPrice":4,
+            "name":"Quarter Pounder",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Quarter-Pounder-with-Cheese.jpg?$Category_Desktop$",
+            "rating":3.5,
+            "reviews":"20k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"American Beef Burger, cheese, doubled",
+            "discountedPrice":4,
+            "name":"Double Quarter Pounder",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Double-Quarter-Pounder-with-Cheese.jpg?$Category_Desktop$",
+            "rating":3.5,
+            "reviews":"20k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Deluxe American Beef Burger, with cheese",
+            "discountedPrice":4,
+            "name":"Deluxe Quarter Pounder",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-qpc-deluxe-burger.jpg?$Category_Desktop$",
+            "rating":4,
+            "reviews":"20k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Deluxe American Beef Burger, with cheese",
+            "discountedPrice":4,
+            "name":"VecDouble",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-McDouble.jpg?$Category_Desktop$",
+            "rating":4,
+            "reviews":"20k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Deluxe American Beef Burger, with cheese",
+            "discountedPrice":4,
+            "name":"Bacon Quarter Pounder",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-qpc-bacon.jpg?$Category_Desktop$",
+            "rating":4,
+            "reviews":"20k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Deluxe American Beef Burger, with cheese",
+            "discountedPrice":4,
+            "name":"Cheeseburgers",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Cheeseburger.jpg?$Category_Desktop$",
+            "rating":4,
+            "reviews":"20k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Deluxe American Beef Burger, with cheese",
+            "discountedPrice":4,
+            "name":"Double Cheeseburger",
+            "originalPrice":5,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Double-Cheeseburger.jpg?$Category_Desktop$",
+            "rating":4,
+            "reviews":"20k",
+            "tags":["Burger", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Salted Potato Slices, Fried",
+            "discountedPrice":2,
+            "name":"French Fries",
+            "originalPrice":3,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-fries-small.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Snacks", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Salted Potato Slices, Fried with cheese",
+            "discountedPrice":2,
+            "name":"Cheese Fries",
+            "originalPrice":3,
+            "picture":"https://media-cldnry.s-nbcnews.com/image/upload/newscms/2017_28/1227629/mcdonalds-loaded-fries-edit-170710-tease.jpg",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Snacks", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Salted Potato Slices, Fried with cheese and bacon",
+            "discountedPrice":2,
+            "name":"Bacon Cheese Fries",
+            "originalPrice":3,
+            "picture":"data:image/jpeg;base64,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",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Snacks", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Salted Potato Slices, Fried with cheese and bacon",
+            "discountedPrice":2,
+            "name":"Chicken VecNuggets",
+            "originalPrice":3,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Snacks", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Coca Cola",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Coca-Cola-Classic-Small.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Sprite",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Sprite-Small.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Dr Pepper",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Dr-Pepper-Small.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Orange Fanta",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-fanta-orange.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Diet Coke",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Diet-Coke-Small.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Orange Lavaburst",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-hi-c-lavaburst.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Iced Tea",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Iced-Tea-Large-unsweetened.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Soft Drink",
+            "discountedPrice":1,
+            "name":"Bottled Water",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Dasani-Water.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Beverages", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"Oreo VecFlurry",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-oreo-mcflurry-snack.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"M&M VecFlurry",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mm-mcflurry-snack.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"Vanilla Cone",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Vanilla-Reduced-Fat-Ice-Cream-Cone.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"Chocolate Shake",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"Vanilla Shake",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Vanilla-McCafe-Shake-Medium.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"Strawberry Shake",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"Hot Fudge Sundae",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Hot-Fudge-Sundae.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        },
+        {
+            "desc":"Desert",
+            "discountedPrice":1,
+            "name":"Hot Caramel Sundae",
+            "originalPrice":2,
+            "picture":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Hot-Caramel-Sundae.jpg?$Category_Desktop$",
+            "rating":5,
+            "reviews":"20k",
+            "tags":["Deserts", "Fast Food"],
+            "inStock":true
+        }
+    ]
+}
