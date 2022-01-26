@@ -21,4 +21,4 @@ Website for the food company Vector. https://vector-food.web.app
 
 # Contact 
 
-FOR ANY QUESTIONS CONTACT ME ON DISCORD - NeilScienceguy1™#9936 
+FOR ANY QUESTIONS CONTACT US ON DISCORD - NeilScienceguy1™#9936 OR Orange_Abstrakt#1215
